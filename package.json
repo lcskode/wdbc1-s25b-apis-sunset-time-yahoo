@@ -1,0 +1,22 @@
+{
+  "name": "wdbc1-s25b-apis-sunset-time-yahoo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "first-request.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcskode/wdbc1-s25b-apis-sunset-time-yahoo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcskode/wdbc1-s25b-apis-sunset-time-yahoo/issues"
+  },
+  "homepage": "https://github.com/lcskode/wdbc1-s25b-apis-sunset-time-yahoo#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
